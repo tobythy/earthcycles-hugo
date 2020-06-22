@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Earthcycles Brisbane</title>
-    <link>https://tobythy.github.io/earthcycles-hugo/tags/</link>
+    <link>http://cargobikesbrisbane.com/tags/</link>
     <description>Recent content in Tags on Earthcycles Brisbane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 May 2020 15:14:59 +1000</lastBuildDate>
     
-	<atom:link href="https://tobythy.github.io/earthcycles-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cargobikesbrisbane.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bike</title>
-      <link>https://tobythy.github.io/earthcycles-hugo/tags/bike/</link>
+      <link>http://cargobikesbrisbane.com/tags/bike/</link>
       <pubDate>Thu, 21 May 2020 15:14:59 +1000</pubDate>
       
-      <guid>https://tobythy.github.io/earthcycles-hugo/tags/bike/</guid>
+      <guid>http://cargobikesbrisbane.com/tags/bike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>non-electric</title>
-      <link>https://tobythy.github.io/earthcycles-hugo/tags/non-electric/</link>
+      <link>http://cargobikesbrisbane.com/tags/non-electric/</link>
       <pubDate>Thu, 21 May 2020 15:14:59 +1000</pubDate>
       
-      <guid>https://tobythy.github.io/earthcycles-hugo/tags/non-electric/</guid>
+      <guid>http://cargobikesbrisbane.com/tags/non-electric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>electric</title>
-      <link>https://tobythy.github.io/earthcycles-hugo/tags/electric/</link>
+      <link>http://cargobikesbrisbane.com/tags/electric/</link>
       <pubDate>Fri, 15 May 2020 15:14:28 +1000</pubDate>
       
-      <guid>https://tobythy.github.io/earthcycles-hugo/tags/electric/</guid>
+      <guid>http://cargobikesbrisbane.com/tags/electric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mundo</title>
-      <link>https://tobythy.github.io/earthcycles-hugo/tags/mundo/</link>
+      <link>http://cargobikesbrisbane.com/tags/mundo/</link>
       <pubDate>Fri, 15 May 2020 15:14:28 +1000</pubDate>
       
-      <guid>https://tobythy.github.io/earthcycles-hugo/tags/mundo/</guid>
+      <guid>http://cargobikesbrisbane.com/tags/mundo/</guid>
       <description></description>
     </item>
     
