@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweet Curry on Earthcycles Brisbane</title>
+    <link>https://tobythy.github.io/earthcycles-hugo/bikes/sweet-curry/</link>
+    <description>Recent content in Sweet Curry on Earthcycles Brisbane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://tobythy.github.io/earthcycles-hugo/bikes/sweet-curry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sweet Curry</title>
+      <link>https://tobythy.github.io/earthcycles-hugo/bikes/sweet-curry/sweet-curry/</link>
+      <pubDate>Fri, 15 May 2020 15:14:13 +1000</pubDate>
+      
+      <guid>https://tobythy.github.io/earthcycles-hugo/bikes/sweet-curry/sweet-curry/</guid>
+      <description>The Sweet Curry is a pedal powered version of its electrified brother the Spicy Curry. Sure to be an instant crowd favorite, the Sweet Curry boasts a super strong but light aluminium frame of oversized tubing, 20” rear wheel and extra long rear deck for maximum hauling capacity, ready to haul up to 130kg.</description>
+    </item>
+    
+  </channel>
+</rss>

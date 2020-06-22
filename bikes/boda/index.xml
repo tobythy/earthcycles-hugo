@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boda Boda on Earthcycles Brisbane</title>
+    <link>https://tobythy.github.io/earthcycles-hugo/bikes/boda/</link>
+    <description>Recent content in Boda Boda on Earthcycles Brisbane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://tobythy.github.io/earthcycles-hugo/bikes/boda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electric Boda Boda Step Through</title>
+      <link>https://tobythy.github.io/earthcycles-hugo/bikes/boda/boda-boda-st/</link>
+      <pubDate>Fri, 15 May 2020 15:14:28 +1000</pubDate>
+      
+      <guid>https://tobythy.github.io/earthcycles-hugo/bikes/boda/boda-boda-st/</guid>
+      <description>The Ultimate Urban People Mover This electric cargo bike has both brains and brawn. The intelligent and powerful pedal assist system masterfully offers just the right amount of assist for a natural feel under your feet.</description>
+    </item>
+    
+  </channel>
+</rss>
