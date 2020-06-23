@@ -6,7 +6,7 @@
     <description>Recent content in non-electric on Earthcycles Brisbane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 15:14:59 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 15:14:59 +1000</lastBuildDate>
     
 	<atom:link href="http://cargobikesbrisbane.com/tags/non-electric/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Kombi</title>
       <link>http://cargobikesbrisbane.com/bikes/kombi/kombi/</link>
-      <pubDate>Thu, 21 May 2020 15:14:59 +1000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 15:14:59 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/kombi/kombi/</guid>
       <description>It’s the bike for everyone – an affordable combination of Yuba’s best bikes! Meet the ultimate urban people mover – from grocery-getting to dominating the school drop off, the Kombi is the right tool for any job.</description>
@@ -23,16 +23,16 @@
     <item>
       <title>Yuba Mundo LUX (V5) Gold</title>
       <link>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-gold/</link>
-      <pubDate>Wed, 20 May 2020 15:00:59 +1000</pubDate>
+      <pubDate>Sat, 20 Jun 2020 15:00:59 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-gold/</guid>
       <description>The Minivan of Cargo Bikes The Mundo LUX is our super sturdy minivan on two wheels. Frame and fork are forged from chromoly steel, which keeps the bike solid as ever but shaves off five pounds from the finished weight.</description>
     </item>
     
     <item>
-      <title>Supermarché With Box</title>
+      <title>Supermarché</title>
       <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche/</link>
-      <pubDate>Fri, 15 May 2020 15:14:47 +1000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 15:14:47 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche/</guid>
       <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
@@ -55,6 +55,16 @@ Constructed from lightweight aluminium, the Supermarché steers nimbly with a do
       
       <guid>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-olive/</guid>
       <description>The Minivan of Cargo Bikes The Mundo LUX is our super sturdy minivan on two wheels. Frame and fork are forged from chromoly steel, which keeps the bike solid as ever but shaves off five pounds from the finished weight.</description>
+    </item>
+    
+    <item>
+      <title>Supermarché With Box</title>
+      <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche-with-box/</link>
+      <pubDate>Wed, 15 Apr 2020 15:14:47 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche-with-box/</guid>
+      <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
+Constructed from lightweight aluminium, the Supermarché steers nimbly with a double redundant cable system.</description>
     </item>
     
   </channel>

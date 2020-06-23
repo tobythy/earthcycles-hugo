@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AVE on Earthcycles Brisbane</title>
+    <link>http://cargobikesbrisbane.com/bikes/ave/</link>
+    <description>Recent content in AVE on Earthcycles Brisbane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="http://cargobikesbrisbane.com/bikes/ave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AVE TH11 Adventure</title>
+      <link>http://cargobikesbrisbane.com/bikes/ave/ave-th11/</link>
+      <pubDate>Sat, 06 Jun 2020 15:14:28 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/ave/ave-th11/</guid>
+      <description>AVE is a long established German bike brand. Having first entered the Australian market in 2018 they have recently returned with some amazing new models.</description>
+    </item>
+    
+    <item>
+      <title>AVE SH11</title>
+      <link>http://cargobikesbrisbane.com/bikes/ave/ave-sh11/</link>
+      <pubDate>Fri, 05 Jun 2020 15:14:28 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/ave/ave-sh11/</guid>
+      <description>AVE is a long established German bike brand. Having first entered the Australian market in 2018 they have recently returned with some amazing new models.</description>
+    </item>
+    
+  </channel>
+</rss>

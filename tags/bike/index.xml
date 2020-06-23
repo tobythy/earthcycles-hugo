@@ -6,7 +6,7 @@
     <description>Recent content in bike on Earthcycles Brisbane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 15:14:59 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 15:14:59 +1000</lastBuildDate>
     
 	<atom:link href="http://cargobikesbrisbane.com/tags/bike/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Kombi</title>
       <link>http://cargobikesbrisbane.com/bikes/kombi/kombi/</link>
-      <pubDate>Thu, 21 May 2020 15:14:59 +1000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 15:14:59 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/kombi/kombi/</guid>
       <description>It’s the bike for everyone – an affordable combination of Yuba’s best bikes! Meet the ultimate urban people mover – from grocery-getting to dominating the school drop off, the Kombi is the right tool for any job.</description>
@@ -23,16 +23,16 @@
     <item>
       <title>Yuba Mundo LUX (V5) Gold</title>
       <link>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-gold/</link>
-      <pubDate>Wed, 20 May 2020 15:00:59 +1000</pubDate>
+      <pubDate>Sat, 20 Jun 2020 15:00:59 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-gold/</guid>
       <description>The Minivan of Cargo Bikes The Mundo LUX is our super sturdy minivan on two wheels. Frame and fork are forged from chromoly steel, which keeps the bike solid as ever but shaves off five pounds from the finished weight.</description>
     </item>
     
     <item>
-      <title>Supermarché With Box</title>
+      <title>Supermarché</title>
       <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche/</link>
-      <pubDate>Fri, 15 May 2020 15:14:47 +1000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 15:14:47 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche/</guid>
       <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
@@ -40,12 +40,57 @@ Constructed from lightweight aluminium, the Supermarché steers nimbly with a do
     </item>
     
     <item>
+      <title>Spicy Curry – 2020 Green</title>
+      <link>http://cargobikesbrisbane.com/bikes/spicy-curry/spicy-curry-green-2020/</link>
+      <pubDate>Sun, 14 Jun 2020 15:14:05 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/spicy-curry/spicy-curry-green-2020/</guid>
+      <description>Spicy Curry – updated for 2020! Yuba has made some great updates for the 2020 version of the ever-popular Spicy Curry.</description>
+    </item>
+    
+    <item>
+      <title>Benno Boost-E (2020)</title>
+      <link>http://cargobikesbrisbane.com/bikes/benno-boost/benno-boost-e/</link>
+      <pubDate>Sat, 13 Jun 2020 15:14:05 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/benno-boost/benno-boost-e/</guid>
+      <description>BOOST E. STRONG. VERSATILE. ADVENTUROUS. Challenging environments and heavy loads are no match for the uncompromising and award-winning Boost E. This compact and extremely sturdy Etility® bike is always ready for the next adventure – close to home or far from civilisation.</description>
+    </item>
+    
+    <item>
+      <title>Electric Supermarché</title>
+      <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche-e/</link>
+      <pubDate>Wed, 10 Jun 2020 15:14:47 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche-e/</guid>
+      <description>Eight and a half feet of cargo hauling happiness From kegs to kids, this cargo bike can haul it all, no sweat required.</description>
+    </item>
+    
+    <item>
       <title>Electric Boda Boda Step Through</title>
       <link>http://cargobikesbrisbane.com/bikes/boda/boda-boda-st/</link>
-      <pubDate>Fri, 15 May 2020 15:14:28 +1000</pubDate>
+      <pubDate>Mon, 08 Jun 2020 15:14:28 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/boda/boda-boda-st/</guid>
       <description>The Ultimate Urban People Mover This electric cargo bike has both brains and brawn. The intelligent and powerful pedal assist system masterfully offers just the right amount of assist for a natural feel under your feet.</description>
+    </item>
+    
+    <item>
+      <title>AVE TH11 Adventure</title>
+      <link>http://cargobikesbrisbane.com/bikes/ave/ave-th11/</link>
+      <pubDate>Sat, 06 Jun 2020 15:14:28 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/ave/ave-th11/</guid>
+      <description>AVE is a long established German bike brand. Having first entered the Australian market in 2018 they have recently returned with some amazing new models.</description>
+    </item>
+    
+    <item>
+      <title>AVE SH11</title>
+      <link>http://cargobikesbrisbane.com/bikes/ave/ave-sh11/</link>
+      <pubDate>Fri, 05 Jun 2020 15:14:28 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/ave/ave-sh11/</guid>
+      <description>AVE is a long established German bike brand. Having first entered the Australian market in 2018 they have recently returned with some amazing new models.</description>
     </item>
     
     <item>
@@ -68,21 +113,31 @@ This Utility Deck is made out of environmentally sustainable and strong bamboo. 
     </item>
     
     <item>
-      <title>Spicy Curry – 2020 Green</title>
-      <link>http://cargobikesbrisbane.com/bikes/spicy-curry/spicy-curry-green-2020/</link>
-      <pubDate>Fri, 15 May 2020 15:14:05 +1000</pubDate>
-      
-      <guid>http://cargobikesbrisbane.com/bikes/spicy-curry/spicy-curry-green-2020/</guid>
-      <description>Spicy Curry – updated for 2020! Yuba has made some great updates for the 2020 version of the ever-popular Spicy Curry.</description>
-    </item>
-    
-    <item>
       <title>Yuba Mundo LUX (V5) Olive</title>
       <link>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-olive/</link>
       <pubDate>Fri, 15 May 2020 14:48:41 +1000</pubDate>
       
       <guid>http://cargobikesbrisbane.com/bikes/mundo/yuba-mundo-olive/</guid>
       <description>The Minivan of Cargo Bikes The Mundo LUX is our super sturdy minivan on two wheels. Frame and fork are forged from chromoly steel, which keeps the bike solid as ever but shaves off five pounds from the finished weight.</description>
+    </item>
+    
+    <item>
+      <title>Electric Supermarché With Box</title>
+      <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche-e-with-box/</link>
+      <pubDate>Sun, 10 May 2020 15:14:47 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche-e-with-box/</guid>
+      <description>Eight and a half feet of cargo hauling happiness From kegs to kids, this cargo bike can haul it all, no sweat required.</description>
+    </item>
+    
+    <item>
+      <title>Supermarché With Box</title>
+      <link>http://cargobikesbrisbane.com/bikes/supermache/supermarche-with-box/</link>
+      <pubDate>Wed, 15 Apr 2020 15:14:47 +1000</pubDate>
+      
+      <guid>http://cargobikesbrisbane.com/bikes/supermache/supermarche-with-box/</guid>
+      <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
+Constructed from lightweight aluminium, the Supermarché steers nimbly with a double redundant cable system.</description>
     </item>
     
   </channel>
