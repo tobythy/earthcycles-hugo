@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2020 15:14:59 +1000</lastBuildDate>
     
-	<atom:link href="https://earthcycles.com.au/tags/non-electric/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/non-electric/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,10 +31,10 @@
     
     <item>
       <title>Supermarché</title>
-      <link>https://earthcycles.com.au/bikes/supermache/supermarche/</link>
+      <link>https://earthcycles.com.au/bikes/Supercargo/supermarche/</link>
       <pubDate>Mon, 15 Jun 2020 15:14:47 +1000</pubDate>
       
-      <guid>https://earthcycles.com.au/bikes/supermache/supermarche/</guid>
+      <guid>https://earthcycles.com.au/bikes/Supercargo/supermarche/</guid>
       <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
 Constructed from lightweight aluminium, the Supermarché steers nimbly with a double redundant cable system.</description>
     </item>
@@ -59,10 +59,10 @@ Constructed from lightweight aluminium, the Supermarché steers nimbly with a do
     
     <item>
       <title>Supermarché With Box</title>
-      <link>https://earthcycles.com.au/bikes/supermache/supermarche-with-box/</link>
+      <link>https://earthcycles.com.au/bikes/Supercargo/supermarche-with-box/</link>
       <pubDate>Wed, 15 Apr 2020 15:14:47 +1000</pubDate>
       
-      <guid>https://earthcycles.com.au/bikes/supermache/supermarche-with-box/</guid>
+      <guid>https://earthcycles.com.au/bikes/Supercargo/supermarche-with-box/</guid>
       <description>This is Yuba’s first Front Loader Cargo Bike and they’ve held nothing back!
 Constructed from lightweight aluminium, the Supermarché steers nimbly with a double redundant cable system.</description>
     </item>

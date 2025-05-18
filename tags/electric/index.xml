@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jun 2020 15:14:05 +1000</lastBuildDate>
     
-	<atom:link href="https://earthcycles.com.au/tags/electric/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/electric/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,10 +31,10 @@
     
     <item>
       <title>Electric Supermarché</title>
-      <link>https://earthcycles.com.au/bikes/supermache/supermarche-e/</link>
+      <link>https://earthcycles.com.au/bikes/Supercargo/supermarche-e/</link>
       <pubDate>Wed, 10 Jun 2020 15:14:47 +1000</pubDate>
       
-      <guid>https://earthcycles.com.au/bikes/supermache/supermarche-e/</guid>
+      <guid>https://earthcycles.com.au/bikes/Supercargo/supermarche-e/</guid>
       <description>Eight and a half feet of cargo hauling happiness From kegs to kids, this cargo bike can haul it all, no sweat required.</description>
     </item>
     
@@ -67,10 +67,10 @@
     
     <item>
       <title>Electric Supermarché With Box</title>
-      <link>https://earthcycles.com.au/bikes/supermache/supermarche-e-with-box/</link>
+      <link>https://earthcycles.com.au/bikes/Supercargo/supermarche-e-with-box/</link>
       <pubDate>Sun, 10 May 2020 15:14:47 +1000</pubDate>
       
-      <guid>https://earthcycles.com.au/bikes/supermache/supermarche-e-with-box/</guid>
+      <guid>https://earthcycles.com.au/bikes/Supercargo/supermarche-e-with-box/</guid>
       <description>Eight and a half feet of cargo hauling happiness From kegs to kids, this cargo bike can haul it all, no sweat required.</description>
     </item>
     
